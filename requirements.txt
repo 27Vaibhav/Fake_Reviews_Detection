@@ -8,3 +8,4 @@ catboost
 spacy
 textblob
 flask
+gunicorn
